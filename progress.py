@@ -1,3 +1,4 @@
+# disclaimer: only works with Jupyter Notebook
 from IPython.display import display, clear_output
 bar = '▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊'
 empty = '                                                  '
